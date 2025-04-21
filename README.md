@@ -18,4 +18,4 @@ I'm a passionate Backend Software Engineer with experience in Ruby on Rails, Pos
 📊 **Version Control**: Git, Github (obviously 😅)
 
 ## 📫 Let's Connect!
-💼 [LinkedIn](https://www.linkedin.com/in/hugo-mejia-49122b351/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/huegogh/) <br>
