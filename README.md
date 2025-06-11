@@ -16,6 +16,3 @@ I'm a passionate Backend Software Engineer with experience in Ruby on Rails, Pos
 ☁ **Cloud & DevOps**: AWS, Azure, Docker<br>
 🗄 **RDBMS**: PostgreSQL<br>
 📊 **Version Control**: Git, Github (obviously 😅)
-
-## 📫 Let's Connect!
-💼 [LinkedIn](https://www.linkedin.com/in/huegogh/) <br>
